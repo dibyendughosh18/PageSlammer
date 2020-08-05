@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "uploadedFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedFilePath'"
+  },
+  {
+    "name": "logFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'logFilePath'"
+  },
+  {
+    "name": "uploadedImagePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedImagePath'"
+  },
+  {
+    "name": "logmode",
+    "type": "java.lang.String",
+    "description": "A description for 'logmode'"
+  },
+  {
+    "name": "loggingMode",
+    "type": "java.lang.String",
+    "description": "A description for 'loggingMode'"
+  },
+  {
+    "name": "profilePicUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'profilePicUrl'"
+  },
+  {
+    "name": "projectUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'projectUrl'"
+  },
+  {
+    "name": "uploadedFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedFilePath'"
+  },
+  {
+    "name": "uploadedImagePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedImagePath'"
+  },
+  {
+    "name": "logFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'logFilePath'"
+  },
+  {
+    "name": "loggingMode",
+    "type": "java.lang.String",
+    "description": "A description for 'loggingMode'"
+  },
+  {
+    "name": "profilePicUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'profilePicUrl'"
+  },
+  {
+    "name": "projectUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'projectUrl'"
+  },
+  {
+    "name": "uploadedFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedFilePath'"
+  },
+  {
+    "name": "uploadedFilePath",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadedFilePath'"
+  }
+]}
