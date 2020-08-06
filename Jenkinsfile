@@ -8,7 +8,6 @@ bat'mvn clean compile'
 }
 }
 }
-}
 stage ('Install Stage') {
 steps {
 withMaven(maven : 'maven3.6') {
